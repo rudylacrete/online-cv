@@ -158,7 +158,7 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/UR8FQHQ2FK32
           credentialname: Coursera
           details: |
-            Cette certification donne les outils et méthodologies permettant au candidat d'optimiser ces coûts cloud sur la pateforme Google Cloud.
+            Cette certification donne les outils et méthodologies permettant au candidat d'optimiser ses coûts cloud sur la pateforme Google Cloud.
 
         - name: Architecting with Google Kubernetes Engine
           start: 2019
@@ -262,6 +262,9 @@ skills:
       
       - name: IoT & embedded systems
         level: 85%
+      
+      - name: C/C++
+        level: 70%
 
 footer: >
     Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Updated by Rudylacrete.
