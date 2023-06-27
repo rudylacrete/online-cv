@@ -3,27 +3,27 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rudy GRONDIN
+    tagline: Ingénieur logiciel et cloud
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: rudylacrete@gmail.com
+    phone: +262 692 055 595
+    timezone: Indian/Reunion
+    citizenship: Français
+    website: cv.rudylacrete.fr #do not add http://
+    linkedin: rudy-grondin
+    xing:
+    github: rudylacrete
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: rudylacrete
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,232 +32,236 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Français
+          level: Langue maternelle
 
-        - idiom: French
-          level: Professional
+        - idiom: Anglais
+          level: Courant
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Espagnol
+          level: Scolaire
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Electronic and DIY projects
           link:
 
-        - item: Snowboarding
+        - item: Sports
           link:
 
-        - item: Cooking
+        - item: Car and mechanics
           link:
 
 career-profile:
-    title: Career Profile
+    title: Carrière professionnelle
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      J'ai commencé ma carrière après ma formation d'ingénieur dans une startup pionnière dans les technologies de chiffrement pour la protection de la vie privée.
+      Cette première expérience m'a permis de faire mes armes sur le développement logiciel avancé. Je me suis ensuite orienté vers le domaine de l'internet des objets
+      pour assouvir une volonté brulante de combiner mes connaissances théoriques en systèmes embarqués et mes compétences en développement logiciel. C'est aussi à ce moment que
+      j'ai pu monter en compétence sur la conception et le déploiement d'infrastructures cloud à haute disponibilité. J'ai ensuite
+      évolué vers des postes de direction et de management d'équipe qui m'ont permis de construire une solide expérience en gestion d'équipe et en développement stratégique.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diplôme d'ingénieur informatique
+        university: ESIROI
+        time: 2010 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Ingénieur informatique généraliste
+
+      - degree: Licence pro Réseaux et Télécoms
+        university: IUT de Saint-Pierre
+        time: 2009 - 2010
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Spécialisation en réseaux sans fil et sécurité
+
+      - degree: BTS informatique et réseaux
+        university: Lycée Roland Garros
+        time: 2007 - 2009
+        details: |
+          Informatique et réseaux pour les industries et les services techniques
+
 experiences:
-    title: Experiences
+    title: Expériences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Directeur technique
+        time: 2017 - 2023
+        company: Demand Side Instruments, France/Réunion
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Développement d'une plateforme IoT pour le déploiement et l'exploitation de réseaux d'objets connectés hétérogènes:
+          - Scaling de la plateforme
+          - Introduction de solution big data et BI
+          - Mise en oeuvre des paradigmes de "edge computing"
+          - Interface entre les équipes stratégiques et techniques
+          - Veille technologique et conseil
+          - Rédaction des documents scientifiques et techniques
+          - Recrutement et plan de formation des équipes
+
+
+      - role: Tech lead logiciel et cloud
+        time: 2015 - 2017
+        company: Demand Side Instruments, France/Réunion
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Développement d'une plateforme IoT pour le déploiement et l'exploitation de réseaux d'objets connectés hétérogènes:
+          - développement logiciel full stack
+          - conception d'infrastructures cloud
+          - administration système
+          - développement sur systèmes embarqués
+          - intégration et déploiement continue
+          - gestion d'équipe
+
+      - role: Ingénieur d'application
+        time: 2013 - 2015
+        company: Ansamb, Réunion
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Définition et implémentation des algorithmes et fonctionnalités bas et haut niveau de la solution logicielle / Gestion de projet /
+          Management de l’équipe de développement / Validation et gestion des aspects qualité du code source.
+
+      - role: Technicien chronométrie RFID
+        time: 2012 - 2016
+        company: C.S.O, Réunion
+        details: |
+          Déploiement, paramétrage et exploitation d’une solution informatisée de chronométrage temps réel basée sur le RFID /
+          Développement d’une application web de suivi en temps réel.
+
+      - role: Responsable informatique
+        time: 2009 - 2010
+        company: SAT Systems, Réunion
+        details: |
+          webmaster / administrateur réseaux / installateur domotique / déploiement de solution IPTV / développement d'une solution VOD légère
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Machine learning
+          start: 2023
+          end:
+          organization: Coursera
+          credentialid: JL33B8964QG4
+          credentialurl: www.coursera.org/account/accomplishments/certificate/JL33B8964QG4
+          credentialname: Coursera
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
+            Je suis actuellement un parcours de spécialisation en intelligence artificielle dispensé par l'université de Washington.
+            Ce programme couvre les techniques courantes de l'apprentissage machine comme les techniques de classification, de regression ou de clustering
+            avec une approche appliquée consistant à utiliser ces algorithmes sur des cas réelles au travers de travaux pratiques évalués. Le contenu est le suivant:
+            - Machine Learning Foundations: A Case Study Approach
+            - Machine Learning: Regression
+            - Machine Learning: Classification
+            - Machine Learning: Clustering & Retrieval
+
+        - name: Optimizing your google cloud costs
+          start: 2021
+          end:
+          organization: Coursera
+          credentialid: UR8FQHQ2FK32
+          credentialurl: https://www.coursera.org/account/accomplishments/certificate/UR8FQHQ2FK32
+          credentialname: Coursera
+          details: |
+            Cette certification donne les outils et méthodologies permettant au candidat d'optimiser ces coûts cloud sur la pateforme Google Cloud.
+
+        - name: Architecting with Google Kubernetes Engine
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Coursera
+          credentialid: P6M45FKVCKCE
+          credentialurl: www.coursera.org/account/accomplishments/specialization/P6M45FKVCKCE
+          credentialname: Coursera
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-        
+            Ce parcours de spécialisation permet d'avoir les connaissances pour concevoir et déployer des applications cloud modernes sur l'infrastructure Google cloud
+            en utilisant la technologie des conteneurs et la couche d'orchestration Kubernetes. Le parcours est composé des volets suivants:
+            - Google Cloud Fundamentals: Core Infrastructure
+            - Architecting with Google Kubernetes Engine: Foundations
+            - Architecting with Google Kubernetes Engine: Workloads
+            - Architecting with Google Kubernetes Engine: Production
+
+        - name: LoRaWAN Expert
+          start: 2018
+          end:
+          organization: LoRaWAN academy
+          credentialid: 1tpFFxPFunCapRoC_KSBJo-szWdgTI13k
+          credentialurl: drive.google.com/file/d/1tpFFxPFunCapRoC_KSBJo-szWdgTI13k/view
+          credentialname: LoRaWAN academy
+          details: |
+            Certification délivrée par la LoRaWAN alliance qui atteste que l'étudiant maitrise les connaissances théoriques autour du protocole LoRaWAN dans sa version
+            1.0.3.
+
 projects:
-    title: Projects
+    title: Projets
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Liste de quelques projets open-source développés sur mon temps personnel:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Nodejs reverse proxy
+        link: "https://github.com/rudylacrete/nodejs-reverse-proxy"
+        tagline: "Un reverse-proxy léger avec support des websockets"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Forscan log analyzer
+        link: "https://github.com/rudylacrete/forscanLogAnalyzer"
+        tagline: "Client lourd permettant d'analyser des logs issue du logiciel Forscan pour l'analyse de performance automobile (créé pour tester le framework Wails)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: License plate blur
+        link: "https://github.com/rudylacrete/python-license-plate-blur"
+        tagline: "Application web permettant de flouter automatiquement les plaques d'immatriculation d'une photo grâce à un modèle IA pour la détection des plaques"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Imprimeurs 3D covid map
+        link: "https://github.com/rudylacrete/imprimeurs3D-covid19-map"
+        tagline: "Application web de référencement géographique des personnes disposant d'une imprimante 3D pouvant imprimer des support de visières pour la protection du personnel soignant"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Engine RPM led indicator
+        link: "https://github.com/rudylacrete/engine-rpm-oled"
+        tagline: "Firmware pour microcontrolleurs ATMEGA permettant de récupérer le régime moteur en OBDII et d'animer un bandeau de LED adressable pour optimiser les passages de rapport"
 
+      - title: Sigfox TD12XX driver
+        link: https://github.com/rudylacrete/sigfox-td12xx-driver
+        tagline: "Module node.js permettant d'intéragir avec le réseau Sigfox au travers des modules basés sur le chip TD12XX"
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    # title: OSS Contributions
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # contributions:
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Node.js & Typescript
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Golang
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: React
+        level: 70%
+
+      - name: DevOps/devSecOps/finOps
+        level: 80%
+
+      - name: Cloud computing (Google)
+        level: 90%
+
+      - name: Cybersécurité
+        level: 70%
+
+      - name: Gestion d'équipe
+        level: 75%
+      
+      - name: IoT & embedded systems
+        level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Updated by Rudylacrete.
