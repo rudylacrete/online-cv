@@ -30,7 +30,7 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Langues
       info:
         - idiom: Français
           level: Langue maternelle
@@ -42,15 +42,15 @@ sidebar:
           level: Scolaire
 
     interests:
-      title: Interests
+      title: Centres d'intérêts
       info:
-        - item: Electronic and DIY projects
+        - item: Eléctronique et projets DIY
           link:
 
-        - item: Sports
+        - item: Sports (Vélo, randonnées, etc)
           link:
 
-        - item: Car and mechanics
+        - item: Mécanique et courses automobiles
           link:
 
 career-profile:
@@ -62,7 +62,7 @@ career-profile:
       j'ai pu monter en compétence sur la conception et le déploiement d'infrastructures cloud à haute disponibilité. J'ai ensuite
       évolué vers des postes de direction et de management d'équipe qui m'ont permis de construire une solide expérience en gestion d'équipe et en développement stratégique.
 education:
-    title: Education
+    title: Parcours scolaire
     info:
       - degree: Diplôme d'ingénieur informatique
         university: ESIROI
