@@ -85,6 +85,15 @@ education:
 experiences:
     title: Expériences
     info:
+      - role: Senior fullstack engineer
+        time: 2023 - maintenant
+        company: Hiboo SAS, France (full remote)
+        details: |
+          Développement d'une plateforme d'aggrégation pour la gestion d'équipements mobiles pour le domaine du BTP:
+          - Développement du service SaaS de visualisation et d'exploitation des données consolidées
+          - Ingénierie logiciel et maintenance de l'infrastructure cloud
+          - Support technique niveau 3
+
       - role: Directeur technique
         time: 2017 - 2023
         company: Demand Side Instruments, France/Réunion
